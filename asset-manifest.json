@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/job-dictionary/static/css/main.b10ce008.css",
+    "main.js": "/job-dictionary/static/js/main.928b1db8.js",
+    "index.html": "/job-dictionary/index.html",
+    "main.b10ce008.css.map": "/job-dictionary/static/css/main.b10ce008.css.map",
+    "main.928b1db8.js.map": "/job-dictionary/static/js/main.928b1db8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10ce008.css",
+    "static/js/main.928b1db8.js"
+  ]
+}
